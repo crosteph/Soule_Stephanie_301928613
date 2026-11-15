@@ -1,7 +1,13 @@
-# Stephanie Soule — MIT 8103
+# Crown Microfinance Bank Savings and Loan Management System
 
-Student ID: 301928613
+Stephanie Soule · Student ID 301928613
 
-Crown Microfinance Bank Savings and Loan management System
+The portfolio uses fictional records for Crown Microfinance Bank Savings and Loan Management System.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Soule_Stephanie_301928613_FinalSummary.md) · [PDF](Soule_Stephanie_301928613_FinalSummary.pdf)
